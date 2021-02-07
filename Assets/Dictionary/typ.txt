@@ -1,0 +1,6 @@
+type
+typhon
+typique
+typographe
+typographie
+typographique
